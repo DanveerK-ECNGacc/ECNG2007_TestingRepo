@@ -1,0 +1,13 @@
+Automate a search for descriptive language as well as key objects/ locations and locative indicators. 
+
+Use C++ to read a text file of the entire book and do a key word search. Pull the entire sentence and page number . This list can be formatted to serve as a design guide
+
+The limitation for this is that there can be confusion about the context of certain lines (eg.  dream,  non literal) some lines might be descriptive but don’t say which location is being described. (Coulibre Estate: The Great House, The Montpelier Great House)
+
+Sir, indicated to me that he is looking for some automation within the process and this technique would be easily modified to create a word counter chart like he recommended. Although, in my opinion, taking design cues based on which words were used more is an oversimplified approach that kind of undermines the idea of bridging the gap between the humanities and the engineering faculties. 
+
+I personally like the idea of having someone/multiple persons write code to do an automated search. We can work around the limitations by manually categorizing them after (go through each line and find context by asking ai or having someone read the text and categorizing). There will also be a lot of lines that could group together easily based on page number (for example if there are multiple paragraphs describing the location)
+
+Either way if it’s not that useful I think sir would want to see some automation within the process and we could always discuss the limitations of this approach in the written report.(time constraints would also be a factor to discuss)
+
+*If this is the method we agree on, i have a lot of usable code from my project last semester (and I’m sure y’all do too) that i used to read my document and format it into lists
